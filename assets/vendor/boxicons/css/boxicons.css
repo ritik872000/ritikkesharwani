@@ -757,9 +757,6 @@
 .bxl-product-hunt:before {
   content: "\e94d";
 }
-.bxl-quora:before {
-  content: "\e94e";
-}
 .bxl-react:before {
   content: "\e94f";
 }
@@ -816,9 +813,6 @@
 }
 .bxl-twitch:before {
   content: "\e961";
-}
-.bxl-twitter:before {
-  content: "\e962";
 }
 .bxl-unsplash:before {
   content: "\e963";
